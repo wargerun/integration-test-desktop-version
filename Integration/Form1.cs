@@ -30,7 +30,7 @@ namespace Integration
             makexml(query);
         }
 
-        public void закрытьСоединениеСБДToolStripMenuItem_Click(object sender, EventArgs e)
+        public void oolStripMenuItem_Click(object sender, EventArgs e)
         {
             closecon = new closedb();
             closecon.Show();
